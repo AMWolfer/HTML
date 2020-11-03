@@ -1,0 +1,60 @@
+header{
+<!--background-color: red; -->
+
+}
+
+#img-cv{
+  margin-top:25px;
+  margin-left: 23px;
+  margin-right:23px;
+
+}
+
+img{
+  width:250px;
+  height:250px;
+}
+
+.img-contenu{
+  width:150px;
+  height:150px;
+  background-color: brown;
+}
+
+
+.Coordonnees{
+  background-color: blue;
+}
+section > article > h1 {
+  color: yellow;
+}
+section > h1 {
+  color: green;
+}
+
+.Section-gauche{
+  width:150px;
+  height:500px;
+  background-color: grey;
+  color:red;
+}
+
+
+
+
+
+
+
+
+
+.Langages div {
+    background: url("https://www.polyright.com/wp-content/uploads/2017/09/PICTO_Vu.png");
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: repeat;
+        background-size: auto;
+    background-size: 10% 10%;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-position: 0% 12%;
+}
