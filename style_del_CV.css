@@ -1,0 +1,148 @@
+/* Section 2 : Formation */
+
+/* Section 3: Expériences professionnelles */
+
+/* Section 4: Langues */
+
+/* Footer: Loisirs */
+
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: green;
+}
+
+
+
+body {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: arial;
+  font-size: large;
+  text-align: left;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#img-cv {
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 13px;
+    padding-left: 0px;
+    width: 10%;
+    height: 10%;
+
+  background-color: with;
+}
+
+.main-description {
+  margin-top: 30px;
+  text-align: left;
+  justify-content: center;
+  background-color: pink;
+}
+
+#Personnelles {
+}
+
+.Coordonnees {
+  color: rgb(8, 8, 8);
+  background-color: white;
+  text-align: left;
+}
+/* Section 1 : Côte Gauche */
+
+.container-cv {
+  margin: 0px;
+  
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-direction: column;
+  justify-content: left;
+  border: 2px solid green;
+  border-radius: 5px;
+
+}
+
+header {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+.Section-gauche {
+  color: red;
+  text-align: left;
+   
+  margin: 0px;
+  padding: 5px;
+
+  width: 100%;
+
+  border: 2px solid green;
+  border-radius: 5px;
+  
+}
+
+.Section-droit {  
+  margin: 0px;
+  padding: 5px;
+  width: 100%;
+
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+.img-contenu {
+  width: 150px;
+  height: 150px;
+  background-color: brown;
+}
+
+.Langages {
+  color: #228b22;
+}
+.Frameworks {
+  color: #b22222;
+}
+
+.CMS {
+  color: #329091;
+}
+
+.Systemes {
+  color: #750875;
+}
+
+.Autre {
+  color: #00bfff;
+}
+
+
+.Info {
+  color: #0c75c1;
+}
+
+
+footer {
+  color: rgb(159, 83, 33);
+  text-align: left;
+  height: 45vh;
+  margin: 5px;
+  padding: 5px;
+  flex-direction: row;
+
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
